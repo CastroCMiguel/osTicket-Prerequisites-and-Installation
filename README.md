@@ -14,7 +14,7 @@ In this lab, I installed osTicket from scratch using the required installation f
 - Internet Information Services (IIS)
 - MySQL
 
-- <h2>Operating Systems Used </h2>
+<h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (21H2)
 
